@@ -8,9 +8,7 @@ The purpose of the analysis was to get a summary of ride-sharing data based on d
 From the graph shown above, it can be seen that there is a signnificant fare difference between each of the city types. Rural cities have shown to have lower fares than both suburban and urban cities.
 
 ![PyBer Analysis Summary](Analysis/pyber_analysis_summary.png)<br/>
-The table above shows the exact amounts of the total rides, total drivers, total fares, average fare per ride and driver, as well as the total fare by city type.
-
-
+The table above shows the exact amounts of the total rides, total drivers, total fares, and average fare per ride and driver. The densely populated urban cities have an excess of drivers, which is backed up by the low average fare per driver only coming in at $0.67. For many drivers, it would be beneficial to carry out more rides in rural areas.
 
 ## PyBer Analysis Summary
 The results of the analysis showed that urban cities had the highest fares while rural cities had the lowest fares. There are three recommendations to addressing the disparities in fares based on city type.
